@@ -3,9 +3,6 @@
 <body>
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <br>
-<br>
-<h1> This is complete CI/CD setup from jenkins to Docker </h1>
-<h2> Continuous Deployment : 22 - This is SECOND  test  </h2>
 </body>
 </head>
 
