@@ -1,10 +1,13 @@
+<!DOCTYPE html>
 <html>
-<head><title>This is my CD Project</title></head>
 <body>
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<br>
-<h3> BUILD 1 <h3>
-<h2> BUILD 2 <h2>		
+
+<h3 style="color:Tomato;">Simple DevOps</h3>
+
+<p style="color:DodgerBlue;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+<p style="color:MediumSeaGreen;">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+
 </body>
-</head>
+</html>
 
